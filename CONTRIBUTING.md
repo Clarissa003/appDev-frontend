@@ -11,6 +11,12 @@
 - **Edit**: When editing a part of existing code.
    Format: `Edit: *what was changed*`
 
+- **Fix**: For bug fixes.
+   Format: `Fix: *brief description of the fix*`
+
+- **Refactor**: For code restructuring.
+   Format: `Refactor: *brief description of the refactor*`
+
 ## Additional Considerations:
 
 - **Scope**: Sometimes it's helpful to include a brief description of the scope of the change, especially if it affects a specific module or feature.
